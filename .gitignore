@@ -1,0 +1,31 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Tests et qualité
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Configuration privée
+.env
+
+# Modèles et données volumineux
+models/*.joblib
+models/*.pt
+models/*.pth
+data/raw/
+
+# Packaging
+build/
+dist/
+
+# IDE
+.vscode/

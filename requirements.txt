@@ -1,0 +1,30 @@
+
+# API et validation
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# Traitement documentaire
+pymupdf
+python-docx
+
+# Data science
+numpy
+pandas
+scikit-learn
+
+# NLP
+spacy
+
+# Interface utilisateur
+streamlit
+
+# Tests
+pytest
+pytest-cov
+
+# Qualité du code
+ruff
+mypy
+pre-commit
