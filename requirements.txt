@@ -28,3 +28,4 @@ pytest-cov
 ruff
 mypy
 pre-commit
+liac-arff

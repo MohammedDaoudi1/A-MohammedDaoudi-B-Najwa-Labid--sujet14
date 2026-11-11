@@ -1,4 +1,4 @@
-# AI Software Architect Agent
+# Agent Architecte Logiciel
 
 ## Présentation
 
@@ -26,8 +26,3 @@ des architectures logicielles adaptées.
 - FastAPI
 - Streamlit
 - Pytest
-
-## Installation
-
-```bash
-pip install -r requirements.txt
